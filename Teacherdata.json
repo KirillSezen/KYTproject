@@ -5,19 +5,5 @@
     "Division": "Кафедра современных технологий программирования",
     "AcademicDegree": "Доктор физико-математических наук, Профессор",
     "Image": "https://github.com/KirillSezen/KYTproject/blob/ce0b6077b0a3627e144f4cbf79a4635b6149291b/S1.jpeg"
-  },
-  {
-    "Name": "Король Андрей Дмитриевич",
-    "Post": "Ректор Белорусского государственного университета",
-    "Division": "Кафедра педагогики и социальной работы",
-    "AcademicDegree": "Профессор кафедры педагогики и социальной работы Гродненского государственного университета имени Янки Купалы",
-    "Image": "https://github.com/KirillSezen/KYTproject/blob/ce0b6077b0a3627e144f4cbf79a4635b6149291b/korol_copy.jpg"
-  },
-  {
-    "Name": "Маскевич Александр Александрович",
-    "Post": "Заведующий кафедрой",
-    "Division": "Кафедра общей физики",
-    "AcademicDegree": "Доктор физико-математических наук, Профессор",
-    "Image": "https://github.com/KirillSezen/KYTproject/blob/ce0b6077b0a3627e144f4cbf79a4635b6149291b/14478.jpg"
   }
 ]
